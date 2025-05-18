@@ -38,15 +38,15 @@ The project makes use of the following CSV files:
   df["occupancy_%"] = (df["successful_bookings"] / df["capacity"]) * 100
 
 ### Exercises & Business Questions Answered
-Identify unique property IDs from the aggregated bookings
+1)Identify unique property IDs from the aggregated bookings
 
-Calculate total bookings per property
+2)Calculate total bookings per property
 
-Identify overbooked days (bookings > capacity)
+3)Identify overbooked days (bookings > capacity)
 
-Find properties with the highest capacities
+4)Find properties with the highest capacities
 
-Evaluate rating distribution and null value handling
+5)Evaluate rating distribution and null value handling
 
 ### Tools & Technologies
 - Python 3
