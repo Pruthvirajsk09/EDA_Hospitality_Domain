@@ -49,8 +49,7 @@ Find properties with the highest capacities
 Evaluate rating distribution and null value handling
 
 ### Tools & Technologies
-Python 3
-Jupyter Notebook
-Pandas for data wrangling
-Matplotlib
+- Python 3
+- Jupyter Notebook
+- Pandas for data wrangling
 
