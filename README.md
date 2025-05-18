@@ -37,7 +37,7 @@ The project makes use of the following CSV files:
   ```python
   df["occupancy_%"] = (df["successful_bookings"] / df["capacity"]) * 100
 
-### Exercises & Business Questions Answered
+### 🧪 Exercises & Business Questions Answered
 1)Identify unique property IDs from the aggregated bookings
 
 2)Calculate total bookings per property
@@ -48,7 +48,7 @@ The project makes use of the following CSV files:
 
 5)Evaluate rating distribution and null value handling
 
-### Tools & Technologies
+### 💻 Tools & Technologies
 - Python 3
 - Jupyter Notebook
 - Pandas for data wrangling
